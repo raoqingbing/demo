@@ -1,0 +1,14 @@
+{
+    "name": "raoqingbing/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rqb",
+            "email": "rqb@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
